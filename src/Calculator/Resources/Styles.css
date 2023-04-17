@@ -1,0 +1,19 @@
+﻿* {
+    font-family: sans-serif;
+    background-color: #F0F0F0;
+    color: #3C486B;
+}
+
+Button {
+    background-color: #3C486B;
+    color: #F0F0F0;
+}
+
+.danger {
+    background-color: #F45050;
+}
+
+.orange {
+    background-color: #F9D949;
+    color: #3C486B;
+}
