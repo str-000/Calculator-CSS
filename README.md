@@ -1,1 +1,1 @@
-
+![plot](images/ss.png)
